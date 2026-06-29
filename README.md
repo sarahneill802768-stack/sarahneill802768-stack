@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Sarah 👋
+Executive Assistant with nearly 10 years of C-suite support experience across private equity, global enterprise, and tech/AI infrastructure.
+I'm not a developer but I work closely with the people who build the future, and I believe great executive support means being genuinely comfortable in technical environments.
+What I do
 
-<!--
-**sarahneill802768-stack/sarahneill802768-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Strategic EA and Executive Business Partner to CEOs, CFOs, and senior leadership
+Build EA functions from scratch in high-growth and founder-led environments
+Operate across complex, fast-moving organisations where trust, discretion, and pace matter
 
-Here are some ideas to get you started:
+Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Private equity → global enterprise (Salesforce) → tech/AI infrastructure → and now exploring what's next in the AI space
+Why GitHub?
+
+Because the best EAs meet their executives where they are — and increasingly, that's here.
